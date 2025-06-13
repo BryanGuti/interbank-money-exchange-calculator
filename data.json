@@ -1,0 +1,25 @@
+{
+  "exchageRatio": {
+    "official": 6.96,
+    "parallel": 16.4
+  },
+  "fees": [
+    {
+      "min": 50,
+      "max": 99.99,
+      "fee": 0.2
+    },
+    {
+      "min": 100,
+      "max": 999.99,
+      "fee": 0.13
+    },
+    {
+      "min": 1000,
+      "max": 10000,
+      "fee": 0.06
+    }
+  ],
+  "phoneNumber": "59177706340",
+  "defaultMessage": "¡Hola! Me gustaría hacer un depósito bancario al exterior"
+}
